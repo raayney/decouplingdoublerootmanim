@@ -1,6 +1,5 @@
 # 3D Boundary Fiber Geometry & Parameter Trajectory Visualizer
 
-[![Manim](https://img.shields.io/badge/Rendered%20with-Manim%20Community-v0.18.0-blue?logo=python)](https://www.manim.community/)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
